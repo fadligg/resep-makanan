@@ -11,7 +11,7 @@ Proyek ini merupakan aplikasi web sederhana berbasis **Java Spring Boot** untuk 
 
 ## 🛠️ Teknologi yang Digunakan
 
-- Java 17+
+- Java 24
 - Spring Boot 3.5.x
 - Spring Web
 - Spring Data JPA
