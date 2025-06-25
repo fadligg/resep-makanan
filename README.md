@@ -58,5 +58,5 @@ cd resep-makanan
 2. Jalankan Aplikasi
 ./mvnw spring-boot:run
 
-##📄 Lisensi
+##  📄 Lisensi
 Proyek ini menggunakan lisensi MIT.
