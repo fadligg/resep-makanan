@@ -52,7 +52,7 @@ INSERT INTO resep (judul, kategori, bahan, langkah) VALUES
 
 ## Cara Menjalankan
 1. Clone Repository
-git clone https://github.com/username/resep-makanan.git
+git clone https://github.com/fadligg/resep-makanan.git
 cd resep-makanan
 
 2. Jalankan Aplikasi
