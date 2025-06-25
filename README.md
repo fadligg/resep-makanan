@@ -20,20 +20,20 @@ Proyek ini merupakan aplikasi web sederhana berbasis **Java Spring Boot** untuk 
 
 ## 🗂️ Struktur Proyek
 
-resep-makanan/
-├── src/
-│ └── main/
-│ ├── java/
-│ │ └── com.group3.resep.resep_makanan/
-│ │ ├── controller/
-│ │ ├── model/
-│ │ ├── repository/
-│ │ └── ResepMakananApplication.java
-│ └── resources/
-│ ├── application.properties
-│ ├── data.sql
-│ └── templates/ (jika menggunakan thymeleaf)
-└── pom.xml
+resep-makanan/ <br>
+├── src/ <br>
+│ └── main/ <br>
+│ ├── java/ <br>
+│ │ └── com.group3.resep.resep_makanan/ <br>
+│ │ ├── controller/ <br>
+│ │ ├── model/ <br> 
+│ │ ├── repository/ <br>
+│ │ └── ResepMakananApplication.java <br>
+│ └── resources/ <br>
+│ ├── application.properties <br>
+│ ├── data.sql <br>
+│ └── templates/ (jika menggunakan thymeleaf) <br>
+└── pom.xml 
 
 
 ## 💾 Database
