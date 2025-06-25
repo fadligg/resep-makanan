@@ -30,9 +30,9 @@ resep-makanan/ <br>
 │ │ ├── repository/ <br>
 │ │ └── ResepMakananApplication.java <br>
 │ └── resources/ <br>
-│ ├── application.properties <br>
-│ ├── data.sql <br>
-│ └── templates/ (jika menggunakan thymeleaf) <br>
+│   ├── application.properties <br>
+│   ├── data.sql <br>
+│   └── templates/ (jika menggunakan thymeleaf) <br>
 └── pom.xml 
 
 
