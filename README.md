@@ -50,7 +50,7 @@ INSERT INTO resep (judul, kategori, bahan, langkah) VALUES
 '1. Nasi putih<br>2. Bawang merah<br>3. Bawang putih<br>... (dst)', 
 '1. Tumis bumbu...<br>2. Masukkan nasi...<br>... (dst)');
 
-## Cara Menjalankan
+## ⚙️ Cara Menjalankan
 1. Clone Repository
 git clone https://github.com/fadligg/resep-makanan.git
 cd resep-makanan
