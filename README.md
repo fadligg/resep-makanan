@@ -1,4 +1,4 @@
-# 🍽️ Aplikasi Resep Makanan
+# 🍽️ Aplikasi Resep Masakan
 
 Proyek ini merupakan aplikasi web sederhana berbasis **Java Spring Boot** untuk menampilkan berbagai **resep makanan** dari berbagai daerah di Indonesia dan mancanegara. Data resep disimpan menggunakan **H2 database** dan dimuat otomatis dari file `data.sql`.
 
